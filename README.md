@@ -36,6 +36,6 @@ python app.py
 ### ➕ Adding a Task
 ![Add Task](screenshots/add-task.png)
 
-### ❌ Deleting a Task
+### ❌ Deleting or Updating a Task
 ![Delete or Update Task](screenshots/delete-or-update-task.png)
 
