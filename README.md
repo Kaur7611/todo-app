@@ -27,3 +27,15 @@ cd todo-app
 
 # Run the app
 python app.py
+
+## 📸 Screenshots
+
+### ✅ Task List Page
+![Task List](screenshots/home.png)
+
+### ➕ Adding a Task
+![Add Task](screenshots/add-task.png)
+
+### ❌ Deleting a Task
+![Delete Task](screenshots/delete-or-update-task.png)
+
