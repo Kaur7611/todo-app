@@ -28,6 +28,7 @@ cd todo-app
 # Run the app
 python app.py
 
+
 ## 📸 Screenshots
 
 ### ✅ Task List Page
