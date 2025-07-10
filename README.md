@@ -16,6 +16,17 @@ A simple and clean task management app built using **Python** and **Flask**. Add
 - SQLite
 - HTML/CSS (basic)
 
+## 📸 Screenshots
+
+### ✅ Task List Page
+![Task List](screenshots/home.png)
+
+### ➕ Adding a Task
+![Add Task](screenshots/add-task.png)
+
+### ❌ Deleting or Updating a Task
+![Delete or Update Task](screenshots/delete-or-update-task.png)
+
 ## 💻 Run Locally
 
 ```bash
@@ -29,14 +40,5 @@ cd todo-app
 python app.py
 
 
-## 📸 Screenshots
 
-### ✅ Task List Page
-![Task List](screenshots/home.png)
-
-### ➕ Adding a Task
-![Add Task](screenshots/add-task.png)
-
-### ❌ Deleting or Updating a Task
-![Delete or Update Task](screenshots/delete-or-update-task.png)
 
